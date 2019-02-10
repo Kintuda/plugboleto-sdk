@@ -1,24 +1,22 @@
 ### Description
 
-This is a very basic implementation for retrying http request upon failure.
+Integração via pacote com a API de boletos, plugboleto
 
 ### Features
 
- - Usage of promises instead of callback.
- - Can recursive try to send request.
- - Can add timeout between requests.
+ - Integração com a maioria dos métodos
+ - Suporte para async/await
+ - Simples integração
 
 ### Installation
 
-
-
 Using npm
 ```
-$ npm install --save plugboleto_lib
+$ npm install --save plugboletolib
 ```
 Using yarn
 ```
-$ yarn add plugboleto_lib
+$ yarn add plugboletolib
 ```
 
 ### Example
